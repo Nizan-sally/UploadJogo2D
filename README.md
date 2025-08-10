@@ -1,4 +1,4 @@
-<h1 align="left"> Game Project</h1>
+<h1 align="left">Game Project</h1>
 
 <p align="left">
   My name is <strong>Eduardo Corazin</strong>, and this is a game I managed to create thanks to one of the courses I took.  
@@ -10,7 +10,7 @@
   The game was made entirely using <strong>GameMaker Language (GML)</strong>.
 </p>
 
-<h2 align="left"> Features</h2>
+<h2 align="left">Features</h2>
 
 <ul align="left">
   <li><strong>Pixel Art Style</strong> – charming visuals, some of which were provided by the course itself.</li>
@@ -21,4 +21,8 @@
 
 <p align="center">
   <img height="120" src="https://i.imgur.com/Q2fRizf.png" alt="Game Preview" />
+  <img height="120" src="https://i.imgur.com/PD6OIXI.png" alt="Game Screenshot 1" />
+  <img height="120" src="https://i.imgur.com/CPnVSWb.png" alt="Game Screenshot 2" />
+  <img height="120" src="https://i.imgur.com/3sgeIgd.png" alt="Game Screenshot 3" />
+  <img height="120" src="https://i.imgur.com/qnMKYDj.png" alt="Game Screenshot 4" />
 </p>
